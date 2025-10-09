@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496256783472",
+    "project_id": "demodbflutter-ead97",
+    "storage_bucket": "demodbflutter-ead97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496256783472:android:c3241c234bd48b785f10b5",
+        "android_client_info": {
+          "package_name": "com.example.hello_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQ-JHjR_IYk3g8SGoY9dVV4pRSFWLnd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
