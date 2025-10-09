@@ -225,7 +225,10 @@ class _EmployeeListPageState extends State<EmployeeListPage> {
                 backgroundColor: selected ? const Color.fromARGB(255, 74, 164, 238) : Colors.grey[300],
                 foregroundColor: selected ? Colors.white : Colors.black,
               ),
-              child: Text(g),
+              child: Text(g, style:  const TextStyle(
+                fontSize: 12, // 
+                fontWeight: FontWeight.w500,
+              ),),
             ),
           ),
         );
